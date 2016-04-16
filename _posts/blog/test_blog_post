@@ -1,5 +1,10 @@
 ---
 title: "This is a test blog post"
+layout: post
+date: 2016-04-16 16:54:46
+author: Admin
+categories:
+- blog
 ---
 
 Here are some sample words from this test blog post. The End.
